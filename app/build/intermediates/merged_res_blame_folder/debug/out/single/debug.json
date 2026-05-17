@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_item_emergency.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\item_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\drawable_distance_badge_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\drawable\\distance_badge_bg.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/layout_fragment_guide_step.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/fragment_guide_step.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_fragment_guide_step.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\fragment_guide_step.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/drawable_distance_badge_bg.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/drawable/distance_badge_bg.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_activity_guide.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\drawable_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\drawable\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/layout_item_hospital.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_activity_hospital_finder.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_hospital_finder.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/layout_activity_hospital_finder.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/activity_hospital_finder.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/drawable_rank_badge_bg.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/drawable/rank_badge_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\drawable_rank_badge_bg.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\drawable\\rank_badge_bg.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/layout_item_emergency.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/item_emergency.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-merged_res-36:/drawable_glassmorphic_card.xml.flat",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/drawable/glassmorphic_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-merged_res-36:\\layout_item_hospital.xml.flat",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\item_hospital.xml"
+    }
+]

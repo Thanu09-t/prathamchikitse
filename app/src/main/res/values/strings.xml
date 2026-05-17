@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pratham-Chikitse</string>
+    <string name="title_emergency">Emergency Guides</string>
+    <string name="choking">Choking</string>
+    <string name="burns">Burns</string>
+    <string name="snake_bite">Snake Bite</string>
+    <string name="fracture">Fracture</string>
+    <string name="heart_attack">Heart Attack</string>
+    <string name="hospital_finder">Find Hospitals</string>
+    <string name="tts_language">Toggle Language (EN/KA)</string>
+    <string name="simulated_hospital_1">City General Hospital\nDistance: 2.1 km</string>
+    <string name="simulated_hospital_2">Metro Care Emergency\nDistance: 4.5 km</string>
+</resources>

@@ -1,0 +1,358 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.databinding:viewbinding:8.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b0dd2e9079a6995c93b371c1a4f500ff\transformed\viewbinding-8.1.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f15cdcf435f02239859faa6d89ce3dcf\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\526f781d31cd2614e561baca1e020d66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\31cd76a828664a7bb799bbd8ee309329\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\270a9b525f1e92b8f0f4508449100170\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1798259a78af403e652d85b8a949ef35\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b04ba67cfabb14c7d819c9b2a62d9967\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\bb3ca67cfb40cf069376cfeb75a3ea0d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0cfbccae58892fb83261b08379c5fa8d\transformed\play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\ef40c9dc79a1742cad2022ae11a90110\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e7c6c104d4552d5036095733d2f4342f\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\4d8a4bc39a0a6c46f60afee3ea05aef3\transformed\activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\286222d3b681365f58d8d61052c4009a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\74146a338f4c2996486d9b86e354bc20\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\29e968b2adb0aeb9f1839ee097812e72\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\cac09e4778943d63a27d8705f5c4d5cc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\748ba5a2b5795c8df44c6b71a6bf26be\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e082abefded66d92e3517560920b2c80\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b230f3287ad6385b5c6030aee4c01d87\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\12514f9198bd96d50e4af96f5f670362\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\9abb833144de719083c54b49804d3223\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\70f946ae2fde845b00b1fc00dd69bd0c\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\fe2c2ac4bec6dd486e1116b744f5294c\transformed\core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b41e5d9a95274e394de1d39ed00ab787\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5bd1495d03c3cc9b746c7127dbf2bdde\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5fee4061eeed32bb85b11f920d0cc5ec\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3286fa7b549f44ca6a3f461dba337a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e8907cd1451c7ed6ce001cb9e3147ed8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\673ea3491eae621d470417a4ee195df3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3e911fb93276a2837f40e1a883cacf10\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c5ac212f925077b25ae18e8fea202138\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0aff0ace49ec80aea699cb6b9130e6ea\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\baed888be6380dd127e0c4721db18f9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d1117329f6204eec4e9cba9f2efa83a8\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f01f78d5f919d9a3e4df8fe2e0fa62be\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c13b2125d26b6e58d0ef6f5c0b94cf2e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\218fbafc23c39b71d550f14ac697ae76\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b30f264875f5788dc5ebeba852942d3\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3143eb995abb892040341ceb92273b41\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\2f6aa20b22b1a0f51875a5b90e657880\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b01b6d6ebe9eedf2169eef7b2b90f3c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5ec0bd68f8fb571b9077db092b05b051\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:8:5-30:19
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f15cdcf435f02239859faa6d89ce3dcf\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f15cdcf435f02239859faa6d89ce3dcf\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\526f781d31cd2614e561baca1e020d66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\526f781d31cd2614e561baca1e020d66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0cfbccae58892fb83261b08379c5fa8d\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0cfbccae58892fb83261b08379c5fa8d\transformed\play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\ef40c9dc79a1742cad2022ae11a90110\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\ef40c9dc79a1742cad2022ae11a90110\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f01f78d5f919d9a3e4df8fe2e0fa62be\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f01f78d5f919d9a3e4df8fe2e0fa62be\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:12:9-50
+	android:icon
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:14:9-53
+activity#com.antigravity.prathamchikitse.MainActivity
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:18:13-69
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.antigravity.prathamchikitse.GuideActivity
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:24:9-26:71
+	android:theme
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:26:13-69
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:25:13-42
+activity#com.antigravity.prathamchikitse.HospitalFinderActivity
+ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:27:9-29:71
+	android:theme
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml:28:13-51
+uses-sdk
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b0dd2e9079a6995c93b371c1a4f500ff\transformed\viewbinding-8.1.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b0dd2e9079a6995c93b371c1a4f500ff\transformed\viewbinding-8.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f15cdcf435f02239859faa6d89ce3dcf\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f15cdcf435f02239859faa6d89ce3dcf\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\526f781d31cd2614e561baca1e020d66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\526f781d31cd2614e561baca1e020d66\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\31cd76a828664a7bb799bbd8ee309329\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\31cd76a828664a7bb799bbd8ee309329\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\270a9b525f1e92b8f0f4508449100170\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\270a9b525f1e92b8f0f4508449100170\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1798259a78af403e652d85b8a949ef35\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1798259a78af403e652d85b8a949ef35\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b04ba67cfabb14c7d819c9b2a62d9967\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b04ba67cfabb14c7d819c9b2a62d9967\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\bb3ca67cfb40cf069376cfeb75a3ea0d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\bb3ca67cfb40cf069376cfeb75a3ea0d\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0cfbccae58892fb83261b08379c5fa8d\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0cfbccae58892fb83261b08379c5fa8d\transformed\play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\ef40c9dc79a1742cad2022ae11a90110\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\ef40c9dc79a1742cad2022ae11a90110\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e7c6c104d4552d5036095733d2f4342f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e7c6c104d4552d5036095733d2f4342f\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\4d8a4bc39a0a6c46f60afee3ea05aef3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\4d8a4bc39a0a6c46f60afee3ea05aef3\transformed\activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\286222d3b681365f58d8d61052c4009a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\286222d3b681365f58d8d61052c4009a\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\74146a338f4c2996486d9b86e354bc20\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\74146a338f4c2996486d9b86e354bc20\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\29e968b2adb0aeb9f1839ee097812e72\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\29e968b2adb0aeb9f1839ee097812e72\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\cac09e4778943d63a27d8705f5c4d5cc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\cac09e4778943d63a27d8705f5c4d5cc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\748ba5a2b5795c8df44c6b71a6bf26be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\748ba5a2b5795c8df44c6b71a6bf26be\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e082abefded66d92e3517560920b2c80\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e082abefded66d92e3517560920b2c80\transformed\lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b230f3287ad6385b5c6030aee4c01d87\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b230f3287ad6385b5c6030aee4c01d87\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\12514f9198bd96d50e4af96f5f670362\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\12514f9198bd96d50e4af96f5f670362\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\9abb833144de719083c54b49804d3223\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\9abb833144de719083c54b49804d3223\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\70f946ae2fde845b00b1fc00dd69bd0c\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\70f946ae2fde845b00b1fc00dd69bd0c\transformed\lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\fe2c2ac4bec6dd486e1116b744f5294c\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\fe2c2ac4bec6dd486e1116b744f5294c\transformed\core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b41e5d9a95274e394de1d39ed00ab787\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\b41e5d9a95274e394de1d39ed00ab787\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5bd1495d03c3cc9b746c7127dbf2bdde\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5bd1495d03c3cc9b746c7127dbf2bdde\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5fee4061eeed32bb85b11f920d0cc5ec\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5fee4061eeed32bb85b11f920d0cc5ec\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3286fa7b549f44ca6a3f461dba337a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3286fa7b549f44ca6a3f461dba337a30\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e8907cd1451c7ed6ce001cb9e3147ed8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\e8907cd1451c7ed6ce001cb9e3147ed8\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\673ea3491eae621d470417a4ee195df3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\673ea3491eae621d470417a4ee195df3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3e911fb93276a2837f40e1a883cacf10\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3e911fb93276a2837f40e1a883cacf10\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c5ac212f925077b25ae18e8fea202138\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c5ac212f925077b25ae18e8fea202138\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0aff0ace49ec80aea699cb6b9130e6ea\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\0aff0ace49ec80aea699cb6b9130e6ea\transformed\lifecycle-runtime-ktx-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\baed888be6380dd127e0c4721db18f9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\baed888be6380dd127e0c4721db18f9b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d1117329f6204eec4e9cba9f2efa83a8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d1117329f6204eec4e9cba9f2efa83a8\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f01f78d5f919d9a3e4df8fe2e0fa62be\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\f01f78d5f919d9a3e4df8fe2e0fa62be\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c13b2125d26b6e58d0ef6f5c0b94cf2e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\c13b2125d26b6e58d0ef6f5c0b94cf2e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\218fbafc23c39b71d550f14ac697ae76\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\218fbafc23c39b71d550f14ac697ae76\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b30f264875f5788dc5ebeba852942d3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b30f264875f5788dc5ebeba852942d3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3143eb995abb892040341ceb92273b41\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\3143eb995abb892040341ceb92273b41\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\2f6aa20b22b1a0f51875a5b90e657880\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\2f6aa20b22b1a0f51875a5b90e657880\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b01b6d6ebe9eedf2169eef7b2b90f3c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\1b01b6d6ebe9eedf2169eef7b2b90f3c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5ec0bd68f8fb571b9077db092b05b051\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\5ec0bd68f8fb571b9077db092b05b051\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\intern1\PrathamChikitse\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\d6ae88b294341558b7cdd0f1104d6661\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\6bcf3e09f65ca2b4c69890c80836fffa\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\a6b1eb2d1be45b008ab47f1d1f792efe\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\7a97cbd1e64f134c47042e1fd4609034\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\eb27bb93131eaed8f3a1c6b4b7539c74\transformed\lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.antigravity.prathamchikitse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.antigravity.prathamchikitse.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\635d20de21a645408be235fc668328fa\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Admin\AppData\Local\Android\Sdk\androidhealth\caches\transforms-4\701987772f8dbcc995b4baa8e21956ef\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

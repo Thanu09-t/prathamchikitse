@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_blue">#FF0A84FF</color>
+    <color name="accent_green">#FF34C759</color>
+    <color name="accent_red">#FFFF3B30</color>
+    <color name="background_dark">#FF131313</color>
+    <color name="black">#FF000000</color>
+    <color name="card_dark">#FF201F1F</color>
+    <color name="card_dark_high">#FF2A2A2A</color>
+    <color name="text_primary">#FFE5E2E1</color>
+    <color name="text_secondary">#FFE7BDB7</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Pratham-Chikitse</string>
+    <string name="burns">Burns</string>
+    <string name="choking">Choking</string>
+    <string name="fracture">Fracture</string>
+    <string name="heart_attack">Heart Attack</string>
+    <string name="hospital_finder">Find Hospitals</string>
+    <string name="simulated_hospital_1">City General Hospital\nDistance: 2.1 km</string>
+    <string name="simulated_hospital_2">Metro Care Emergency\nDistance: 4.5 km</string>
+    <string name="snake_bite">Snake Bite</string>
+    <string name="title_emergency">Emergency Guides</string>
+    <string name="tts_language">Toggle Language (EN/KA)</string>
+    <style name="Theme.PrathamChikitse" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/accent_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+    <style name="Theme.PrathamChikitse.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

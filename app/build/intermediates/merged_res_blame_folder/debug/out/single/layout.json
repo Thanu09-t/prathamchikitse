@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.antigravity.prathamchikitse.app-mergeDebugResources-35:/layout/item_hospital.xml",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\activity_guide.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\fragment_guide_step.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\fragment_guide_step.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-mergeDebugResources-35:/layout/item_emergency.xml",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/item_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\item_hospital.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\item_hospital.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\activity_hospital_finder.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_hospital_finder.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-mergeDebugResources-35:/layout/activity_hospital_finder.xml",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/activity_hospital_finder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-mergeDebugResources-35:\\layout\\item_emergency.xml",
+        "source": "C:\\Users\\Admin\\.gradle\\daemon\\8.7\\com.antigravity.prathamchikitse.app-main-38:\\layout\\item_emergency.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.antigravity.prathamchikitse.app-mergeDebugResources-35:/layout/fragment_guide_step.xml",
+        "source": "com.antigravity.prathamchikitse.app-main-38:/layout/fragment_guide_step.xml"
+    }
+]

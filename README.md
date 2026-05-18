@@ -24,8 +24,6 @@ Pratham-Chikitse is a comprehensive first aid companion app that provides clear,
 3. Sync Gradle.
 4. Run on emulator or Android device.
 
-## Screenshots
-Add app screenshots here.
 
 ## Future Improvements
 - **Direct Emergency Calling**: One-tap calling to local emergency services.
@@ -35,4 +33,53 @@ Add app screenshots here.
 #### Live Demo APK
 https://drive.google.com/file/d/1zoy9uGC-pKYGAEVobNzIMhjqMNJYqYMQ/view?usp=sharing
 
-- 
+- ##structure
+  PrathamChikitse/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/example/prathamchikitse/
+│   │   │   │   ├── activities/
+│   │   │   │   │   ├── MainActivity.kt
+│   │   │   │   │   ├── LoginActivity.kt
+│   │   │   │   │   └── EmergencyActivity.kt
+│   │   │   │   │
+│   │   │   │   ├── adapters/
+│   │   │   │   │   └── EmergencyAdapter.kt
+│   │   │   │   │
+│   │   │   │   ├── models/
+│   │   │   │   │   └── EmergencyContact.kt
+│   │   │   │   │
+│   │   │   │   ├── utils/
+│   │   │   │   │   └── Constants.kt
+│   │   │   │   │
+│   │   │   │   └── database/
+│   │   │   │       └── AppDatabase.kt
+│   │   │   │
+│   │   │   ├── res/
+│   │   │   │   ├── drawable/
+│   │   │   │   ├── layout/
+│   │   │   │   ├── mipmap/
+│   │   │   │   ├── values/
+│   │   │   │   └── menu/
+│   │   │   │
+│   │   │   └── AndroidManifest.xml
+│   │
+│   ├── build.gradle
+│   └── proguard-rules.pro
+│
+├── gradle/
+│
+├── screenshots/
+│   ├── home.png
+│   ├── login.png
+│   ├── emergency.png
+│   └── dashboard.png
+│
+├── README.md
+├── build.gradle
+├── settings.gradle
+├── gradle.properties
+├── .gitignore
+└── LICENSE
